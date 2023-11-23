@@ -7,7 +7,7 @@ Welcome to the assembly instructions for constructing the copper coils used in o
 ## Materials Required
 
 1. 3D-printed coil holder (thermoplastic material)
-2. 96 copper wires (0.71 mm diameter)
+2. Copper wires (0.71 mm diameter)
 3. Thermally conductive glue (10 gr of GENNEL G109)
 4. Two-part epoxy (J-B Weld 8276)
 5. Silicone sealant (Aqueon) 
