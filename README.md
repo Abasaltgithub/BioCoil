@@ -1,7 +1,5 @@
 # BioCoil
 
-# README: Coil Assembly Instructions
-
 ## Overview
 
 Welcome to the assembly instructions for constructing the copper coils used in our project. These coils are an essential component for generating magnetic fields in a controlled manner. The assembly process involves the use of a 3D-printed holder, copper wires, thermally conductive glue, epoxy, and silicone sealant. Follow the step-by-step guide below to prepare the coils successfully.
