@@ -11,7 +11,7 @@ Welcome to the assembly instructions for constructing the copper coils used in o
 3. Thermally conductive glue (10 gr of GENNEL G109)
 4. Two-part epoxy (J-B Weld 8276)
 5. Silicone sealant (Aqueon) 
-6. Coil enclosure
+6. Coil enclosure made of Delrin or Aluminum
 7. Multi-axes magnetometer (F71 Multi-axis sensor)
 
 ## Assembly Instructions
